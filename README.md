@@ -31,10 +31,12 @@ Our vision: One patient. One connected health story.
 7. **Ask Assistant:** A chatbot that answers questions using your own uploaded documents, with references, but without giving medical advice.
 
 8. **Visit Prep("Prepare for My Next Visit"):** Creates a one‑page summary for your next doctor visit, ready to print or share.
+      <img src="images/visitPrep.jpeg" alt="healthVault" width="500">
 
 9. **Safe Sharing:** Share your records with a doctor using a secure link that you can cancel anytime.
 
 10. **Emergency Card:** Quick‑access card with your allergies, blood group, medicines, and doctor contacts — digital or printable.
+
 
 _Note: LockMyHealth utilizes realistic synthetic medical datasets for demonstration. No real protected health information (PHI) or live hospital integrations are required._
 
@@ -72,38 +74,63 @@ _(Placeholders for hackathon repository submission video/screenshot assets)_
 - **My Doctors:**
   • Organized folders by doctor/clinic
   • Easy to find past prescriptions and notes
+      <img src="images/doctors.jpeg" alt="Doctors" width="500">
+          <img src="images/newProvider.jpeg" alt="newProvider" width="500">
+
+
 
 - **Health Timeline:**
   • Medical events shown in order
   • Helps track health progress over time
+      <img src="images/timeline.jpeg" alt="Timeline" width="500">
+    
+
+
 
 - **Health Vault**
   • Central storage for all medical documents
   • Safe and searchable
+      <img src="images/healthVault.jpeg" alt="healthVault" width="500">
+
 
 - **Medication Reconciliation Center:**
   • Detects duplicate or conflicting prescriptions
   • Prepares questions for doctor visits
+        <img src="images/Medication.jpeg" alt="healthVault" width="500">
+
+  
+  
 
 - **Lab Results:**
   • Charts showing test trends (sugar, cholesterol, etc.)
   • Clear explanations with reference ranges
+        <img src="images/LabResults.jpeg" alt="healthVault" width="500">
+
+  
 
 - **Appointments and Remainders**
   • Schedule upcoming visits
   • Get timely reminders and alerts
+        <img src="images/appointment.jpeg" alt="healthVault" width="500">
+
 
 - **Ask LockMyHealth:**
   • Chatbot answers questions using your records
   • Provides source‑based responses, not medical advice
+        <img src="images/AiChatbot.jpeg" alt="healthVault" width="500">
+
 
 - **Share Records**
   • Secure links for doctors
   • Patient can control access and revoke anytime
+        <img src="images/DetailSharing.jpeg" alt="healthVault" width="500">
+
 
 - **Emergency Health Card:**
   • Quick‑access card with allergies, blood group, medicines
   • Digital and printable for emergencies
+        <img src="images/emergency.jpeg" alt="healthVault" width="500">
+
 
 ---
 
