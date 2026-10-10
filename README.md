@@ -60,7 +60,7 @@ _(Placeholders for hackathon repository submission video/screenshot assets)_
   • Secure sign‑in for patients
   • Easy access to personal health records
 
-    <img src="images/login.png" alt="Login Page" width="500">
+    <img src="images/login.jpeg" alt="Login Page" width="500">
 
 - **Overview:**
   • Quick snapshot of health status
