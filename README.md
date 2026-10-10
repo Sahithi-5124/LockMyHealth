@@ -1,5 +1,10 @@
 # LockMyHealth — Your Health, Connected
 
+
+## Demo Video:
+
+[Watch Demo](./demo_video.mp4)
+
 ## 1. Problem Statement
 
 LockMyHealth is a patient-controlled digital health locker designed to address the problem of fragmented medical records and repeated care across healthcare providers.
