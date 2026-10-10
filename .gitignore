@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+.env.example
+package-lock.json
+README.md
+uploads/
+
+
+data/auth_accounts.json
