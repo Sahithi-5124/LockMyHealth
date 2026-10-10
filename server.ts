@@ -8,7 +8,7 @@ import { db } from './server/db.ts';
 import { chatWithLockMyHealth, explainLabParameter } from './server/ai.ts';
 
 const app = express();
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 const isProduction = process.env.NODE_ENV === 'production';
 
 // Body parsers
